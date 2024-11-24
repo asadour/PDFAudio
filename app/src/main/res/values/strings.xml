@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OrderLy</string>
+    <string name="openpdf">Open PDF</string>
+    <string name="savepdf">Save PDF</string>
+</resources>
